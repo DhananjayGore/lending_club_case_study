@@ -29,9 +29,9 @@ When a person applies for a loan, there are two types of decisions that could be
 
  Following files has been inlcluded as a part of solutions:
  1. README file for Problem discriptions.
- 2. Dhananjay_Gore.ipynb ipython file for performing EDA.
- 3. Dhananjay_Gore.pdf about the Analysis and Conclusions of EDA performed.
- 4. Loan.csv file.
+ 2. dhananjay_gore.ipynb ipython file for performing EDA.
+ 3. Presentation.pdf about the Analysis and Conclusions of EDA performed.
+ 4. loan/loan.csv file.
 
  ## Group Study Members
  Dhananjay Gore and Krathigha 
